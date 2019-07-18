@@ -26,5 +26,5 @@ class Coin
     # coins = gets.to_i
 p "Gimmie all your monies"
 coins = gets.to_i
-makechage = Coin.new()
-p makechage.calculation(coins)
+makechange = Coin.new()
+p makechange.calculation(coins)
